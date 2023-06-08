@@ -1,0 +1,30 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phunguyenminh2/nodejs_project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "project"
+  ],
+  "author": "phu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phunguyenminh2/nodejs_project/issues"
+  },
+  "homepage": "https://github.com/Phunguyenminh2/nodejs_project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
